@@ -1,5 +1,5 @@
 # EFK Stack for Kubernetes | Elasticsearch, Fluent Bit & Kibana
-🚀 EFK Stack for Kubernetes | A centralized log monitoring solution using Elasticsearch, Fluent Bit, and Kibana to collect, process, and visualize logs from Kubernetes workloads. Perfect for real-time log aggregation, troubleshooting, and observability. 🔥
+🚀 EFK Stack for Kubernetes-A centralized log monitoring solution using Elasticsearch, Fluent Bit, and Kibana to collect, process, and visualize logs from Kubernetes workloads. Perfect for real-time log aggregation, troubleshooting, and observability. 🔥
 
 ## 📌 Introduction
 This repository contains a fully functional **EFK Stack (Elasticsearch, Fluent Bit, Kibana)** deployment on **Kubernetes**. The EFK stack is widely used for **centralized logging, log aggregation, and monitoring** in Kubernetes environments.
